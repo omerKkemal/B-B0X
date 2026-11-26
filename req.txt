@@ -1,0 +1,193 @@
+
+# ==========================================
+# Flask Core
+# ==========================================
+Flask
+Werkzeug
+Jinja2
+itsdangerous
+click
+blinker
+
+# ==========================================
+# Database & ORM
+# ==========================================
+Flask-SQLAlchemy
+SQLAlchemy
+Flask-Migrate
+Flask-Migrate
+alembic
+Flask-MongoEngine
+pymongo
+psycopg2-binary
+PyMySQL
+
+# ==========================================
+# Authentication & Authorization
+# ==========================================
+Flask-Login
+Flask-Principal
+Flask-Security-Too
+Flask-Bcrypt
+Flask-Argon2
+Flask-JWT-Extended
+PyJWT
+Authlib
+
+# ==========================================
+# Forms & Validation
+# ==========================================
+Flask-WTF
+WTForms
+email-validator
+marshmallow
+Flask-Marshmallow
+marshmallow-sqlalchemy
+
+# ==========================================
+# REST API
+# ==========================================
+Flask-RESTful
+Flask-RESTX
+Flask-API
+Flask-Smorest
+Flask-CORS
+
+# ==========================================
+# Admin Dashboard
+# ==========================================
+Flask-Admin
+Flask-AppBuilder
+
+# ==========================================
+# File Uploads & Storage
+# ==========================================
+Flask-Uploads
+Flask-Reuploaded
+Pillow
+boto3
+python-magic
+
+# ==========================================
+# Caching & Performance
+# ==========================================
+Flask-Caching
+Flask-Compress
+Flask-Limiter
+Flask-Assets
+redis
+hiredis
+
+# ==========================================
+# Email & Notifications
+# ==========================================
+Flask-Mail
+Flask-Mailman
+Flask-APScheduler
+APScheduler
+
+# ==========================================
+# Real-time & WebSockets
+# ==========================================
+Flask-SocketIO
+Flask-SSE
+python-socketio
+python-engineio
+eventlet
+simple-websocket
+
+# ==========================================
+# Security & CSRF
+# ==========================================
+Flask-Talisman
+Flask-SeaSurf
+Flask-Paranoid
+cryptography
+bleach
+
+# ==========================================
+# Internationalization
+# ==========================================
+Flask-Babel
+Babel
+
+# ==========================================
+# Search
+# ==========================================
+Flask-WhooshAlchemy
+Whoosh
+elasticsearch
+
+# ==========================================
+# Testing
+# ==========================================
+pytest
+pytest-flask
+pytest-cov
+factory-boy
+faker
+coverage
+
+# ==========================================
+# Environment & Configuration
+# ==========================================
+python-dotenv
+dynaconf
+Flask-Env
+pydantic
+pydantic-settings
+
+# ==========================================
+# Logging & Monitoring
+# ==========================================
+structlog
+sentry-sdk[flask]
+Flask-MonitoringDashboard
+
+# ==========================================
+# HTTP & External APIs
+# ==========================================
+requests
+httpx
+urllib3
+
+# ==========================================
+# Task Queues
+# ==========================================
+celery
+Flask-CeleryExt
+kombu
+
+# ==========================================
+# Data Processing
+# ==========================================
+pandas
+numpy
+openpyxl
+xlsxwriter
+
+# ==========================================
+# Documentation
+# ==========================================
+flasgger
+apispec
+sphinx
+
+# ==========================================
+# Production Server
+# ==========================================
+gunicorn
+waitress
+gevent
+
+# ==========================================
+# Development Tools
+# ==========================================
+Flask-DebugToolbar
+black
+flake8
+isort
+mypy
+pre-commit
+ipython
+
